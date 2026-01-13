@@ -1,0 +1,9 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/getting-started/
+
+theme = "blowfish" # UNCOMMENT THIS LINE
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "PacaPomo"
+# theme = "ananke"
